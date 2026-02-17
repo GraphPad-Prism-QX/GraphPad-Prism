@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://www.graphpad.com/guides/prism/latest/user-guide/images/clip0061_zoom50.png" width="824" alt="Interface"/>
+<img src="https://cdn.graphpad.com/assets/19.4.47/assets/images/graphpad/prism/prism-customize-w1252-800.png" width="824" alt="Interface"/>
 
 </div>
 
